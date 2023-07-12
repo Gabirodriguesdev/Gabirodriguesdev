@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gabirodriguesdev
 - 👀 I love TECH
-- 🌱 I’m currently learning how to create Java games
+- 🌱 I’m currently learning how to create  Unity 3D Game and moonscript for Roblox
 - 💞️ I’m looking to collaborate on new projects!
