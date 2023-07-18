@@ -16,7 +16,9 @@ linktr.ee/Gabiscrodrigues
 Tenho buscado aperfeiçoamento como programadora e gamedev.
 Estou disponível para colaborar com conteúdos e compartilhar conhecimento. 
 
- "𝒕𝒐𝒅𝒂𝒚 𝒊𝒔 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒕 𝒐𝒇 𝒂 𝒏𝒆𝒘 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈," 𝒔𝒉𝒆 𝒘𝒉𝒊𝒔𝒑𝒆𝒓𝒔."𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒔𝒐𝒇𝒕𝒆𝒓, 𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒃𝒆𝒕𝒕𝒆𝒓, 𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓."
+ ""Eu não sou professora nem mestra. O que tenho são experiências e o gosto de aprender. A maior sabedoria é compartilhar o que se sabe, pois é doando que se recebe o maior aprendizado." 
+ - Cora Coralina 
+
 
 
 
