@@ -1,4 +1,4 @@
-[![image](https://github.com/Gabirodriguesdev/Gabirodriguesdev/assets/92934830/8e1ac6e5-cece-4fa3-880a-623b304b7183)](https://64.media.tumblr.com/752e98a41362e1c7e51c7a50a78c179c/317f3fca563a82e5-a4/s1280x1920/187cb60ba078ceeefb7d36860495fdde9aec83b9.gifv)
+![image](https://github.com/Gabirodriguesdev/Gabirodriguesdev/assets/92934830/46a8a480-bcc1-4a44-98bd-b8e0bf72778e)
 
 - 👋 Hi, I’m @Gabirodriguesdev
 - 👀 I love TECH
