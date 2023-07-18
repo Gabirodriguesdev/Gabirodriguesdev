@@ -2,8 +2,11 @@
 
 
 👋 Hi, I’m @Gabirodriguesdev
-🎓 Mestranda e mentora em educação profissional e tecnológica.
+
+🎓 Mestranda e mentora em educação profissional e tecnológica
+
 🚀 iniciante em Games 3D 
+
 👇Sou DI e te ajudo a criar cursos incríveis e envolventes! 
 linktr.ee/Gabiscrodrigues
 
