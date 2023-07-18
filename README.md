@@ -15,6 +15,4 @@ linktr.ee/Gabiscrodrigues
 
 Tenho buscado aperfeiçoamento como programadora e gamedev.
 Estou disponível para colaborar com conteúdos e compartilhar conhecimento. 
-
-
-<span style="font-style:italic;font-weight:600" data-token-index="1" class="notion-enable-hover">Eu não sou professora nem mestra. O que tenho são experiências e o gosto de aprender. A maior sabedoria é compartilhar o que se sabe, pois é doando que se recebe o maior aprendizado.</span>
+"***Eu não sou professora nem mestra. O que tenho são experiências e o gosto de aprender. A maior sabedoria é compartilhar o que se sabe, pois é doando que se recebe o maior aprendizado.***" - **Cora Coralina**
