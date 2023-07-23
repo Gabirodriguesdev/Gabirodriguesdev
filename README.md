@@ -12,7 +12,6 @@
 linktr.ee/Gabiscrodrigues
 
 <img src="https://file.notion.so/f/s/6a6b6819-5130-420c-9e8c-732eaf70878e/Untitled_Artwork.gif?id=5b58ee4f-ee9a-404d-b937-d2adf5e96c58&amp;table=block&amp;spaceId=237c5485-9bf1-4c5a-8433-0c2c2f3e7126&amp;expirationTimestamp=1689739200000&amp;signature=y1V4PUWnkhv9EPFCBNypJwPO2HVdT5KkNra_5KS1dik" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 1px; pointer-events: auto; width: 100%;">
-
 Tenho buscado aperfeiçoamento como programadora e gamedev.
 Estou disponível para colaborar com conteúdos e compartilhar conhecimento. 
 "***Eu não sou professora nem mestra. O que tenho são experiências e o gosto de aprender. A maior sabedoria é compartilhar o que se sabe, pois é doando que se recebe o maior aprendizado.***" - **Cora Coralina**
