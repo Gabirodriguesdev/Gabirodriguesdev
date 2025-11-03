@@ -1,8 +1,8 @@
 # Olá! Eu sou Gabi Rodrigues 👋
+
 <p align="center">
   <img src="meu-gif-animado.gif" alt="GIF animado de boas-vindas" width="600">
 </p>
-
 Estou construindo pontes entre **Design de Produto (UX)** e **Tecnologia (Dados & IA)**.
 
 Minha carreira começou como Designer Instrucional (DI), onde passei anos entendendo as dores dos usuários e desenhando soluções de aprendizagem (UX/Design). Agora, estou migrando para a área de tecnologia para **construir** essas soluções.
