@@ -1,17 +1,54 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://64.media.tumblr.com/752e98a41362e1c7e51c7a50a78c179c/317f3fca563a82e5-a4/s1280x1920/187cb60ba078ceeefb7d36860495fdde9aec83b9.gifv">
+# Olá! Eu sou Gabi Rodrigues 👋
 
+Estou construindo pontes entre **Design de Produto (UX)** e **Tecnologia (Dados & IA)**.
 
-👋 Hi, I’m @Gabirodriguesdev
+Minha carreira começou como Designer Instrucional (DI), onde passei anos entendendo as dores dos usuários e desenhando soluções de aprendizagem (UX/Design). Agora, estou migrando para a área de tecnologia para **construir** essas soluções.
 
-🎓 Mestranda e mentora em educação profissional e tecnológica
+Meu objetivo é unir minha visão de produto com habilidades técnicas em **Python**, **Análise de Dados** e **IA Generativa** para criar ferramentas que resolvem problemas de negócio reais.
 
-🚀 iniciante em Games 3D 
+---
 
-👇Sou DI e te ajudo a criar cursos incríveis e envolventes! 
+### 🎯 O Foco do meu "Projeto-Ponte"
 
-linktr.ee/Gabiscrodrigues
+Estou focada em oportunidades de **Desenvolvedora Jr. (Backend)** ou **Analista de Dados (com IA)**.
 
-<img src="https://file.notion.so/f/s/6a6b6819-5130-420c-9e8c-732eaf70878e/Untitled_Artwork.gif?id=5b58ee4f-ee9a-404d-b937-d2adf5e96c58&amp;table=block&amp;spaceId=237c5485-9bf1-4c5a-8433-0c2c2f3e7126&amp;expirationTimestamp=1689739200000&amp;signature=y1V4PUWnkhv9EPFCBNypJwPO2HVdT5KkNra_5KS1dik" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 1px; pointer-events: auto; width: 100%;">
-Tenho buscado aperfeiçoamento como programadora e gamedev.
-Estou disponível para colaborar com conteúdos e compartilhar conhecimento. 
-"***Eu não sou professora nem mestra. O que tenho são experiências e o gosto de aprender. A maior sabedoria é compartilhar o que se sabe, pois é doando que se recebe o maior aprendizado.***" - **Cora Coralina**
+Minha experiência anterior como DI me oferece uma vantagem única:
+* **Visão de UX/Produto:** Eu entendo *por que* estamos construindo e *para quem*.
+* **Resolução de Problemas:** Sei como traduzir uma necessidade de negócio (ex: "precisamos melhorar a didática") em uma solução técnica (ex: "vamos analisar os feedbacks com IA").
+
+---
+
+### 🛠️ Minhas Ferramentas (Tech Stack)
+
+* **Linguagem:** Python
+* **Dados & Análise:** Pandas, Streamlit, (Looker Studio)
+* **Backend & APIs:** FastAPI, Flask, Docker
+* **IA Generativa:** AWS Bedrock, OpenAI (ChatGPT)
+* **Cloud & Infra:** AWS (Lambda, S3), Git, GitHub
+
+---
+
+### 🚀 Meus Projetos-Ponte (Em Destaque)
+
+Estes são os projetos que demonstram a intersecção das minhas habilidades.
+
+*(Nota: Esta seção é onde vamos colocar os links assim que os projetos estiverem no ar!)*
+
+1.  **[API] Microserviço de Assistência ao Designer (IA)**
+    * **Descrição:** Uma API REST (FastAPI) que usa IA Generativa para analisar sentimentos de alunos, gerar quizzes e resumir textos automaticamente.
+    * **Tecnologias:** `Python`, `FastAPI`, `AWS Bedrock`, `Docker`
+    * **Link:** `(Em breve)`
+
+2.  **[DADOS] Painel de Análise de Sentimento de Cursos**
+    * **Descrição:** Um dashboard interativo (Streamlit) que consome a minha própria API de IA para analisar e visualizar milhares de reviews de cursos, identificando problemas de didática, áudio ou conteúdo.
+    * **Tecnologias:** `Python`, `Streamlit`, `Pandas`, `APIs`
+    * **Link:** `(Em breve)`
+
+---
+
+### 📫 Vamos Conversar!
+
+Estou buscando ativamente minha primeira oportunidade para aplicar esta visão "ponte" em um ambiente de tecnologia.
+
+* **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/seu-perfil-aqui)
+* **E-mail:** seu.email@dominio.com
