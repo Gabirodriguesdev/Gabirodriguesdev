@@ -60,7 +60,7 @@ Estes são os projetos que demonstram a intersecção das minhas habilidades.
 ### 📫 Vamos Conversar!
 
 <p align="center">
-  Estou buscando ativamente minha primeira oportunidade para aplicar esta visão "ponte".
+  Estou buscando ativamente minha primeira oportunidade para aplicar estes projetos.
   <br />
   <br />
   <a href="mailto:seu.email@dominio.com">
