@@ -13,7 +13,6 @@ Meu objetivo é unir minha visão de produto com habilidades técnicas em **Pyth
 
 ### 🎯 O Foco do meu "Projeto-Ponte"
 
-Estou focada em oportunidades de **Desenvolvedora Jr. (Backend)** ou **Analista de Dados (com IA)**.
 
 Minha experiência anterior como DI me oferece uma vantagem única:
 * **Visão de UX/Produto:** Eu entendo *por que* estamos construindo e *para quem*.
@@ -35,7 +34,7 @@ Minha experiência anterior como DI me oferece uma vantagem única:
 
 Estes são os projetos que demonstram a intersecção das minhas habilidades.
 
-*(Nota: Esta seção é onde vamos colocar os links assim que os projetos estiverem no ar!)*
+*(Nota: Esta seção é onde vou colocar os links assim que os projetos estiverem no ar!)*
 
 1.  **[API] Microserviço de Assistência ao Designer (IA)**
     * **Descrição:** Uma API REST (FastAPI) que usa IA Generativa para analisar sentimentos de alunos, gerar quizzes e resumir textos automaticamente.
@@ -53,5 +52,5 @@ Estes são os projetos que demonstram a intersecção das minhas habilidades.
 
 Estou buscando ativamente minha primeira oportunidade para aplicar esta visão "ponte" em um ambiente de tecnologia.
 
-* **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/seu-perfil-aqui)
-* **E-mail:** seu.email@dominio.com
+* LinkedIn:([https://www.linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/gabriellascrodrigues))
+* E-mail:gabriella.scosta@dgmail.com
