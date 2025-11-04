@@ -53,4 +53,4 @@ Estes são os projetos que demonstram a intersecção das minhas habilidades.
 Estou buscando ativamente minha primeira oportunidade para aplicar esta visão "ponte" em um ambiente de tecnologia.
 
 * LinkedIn:([https://www.linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/gabriellascrodrigues))
-* E-mail:gabriella.scosta@dgmail.com
+* E-mail:gabriella.scosta@gmail.com
