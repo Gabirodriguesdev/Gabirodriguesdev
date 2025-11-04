@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/752e98a41362e1c7e51c7a50a78c179c/317f3fca563a82e5-a4/s1280x1920/187cb60ba078ceeefb7d36860495fdde9aec83b9.gifv" alt="GIF animado de boas-vindas" width="600">
 </p>
-Estou construindo pontes entre Design de Produto (UX) e Tecnologia (Dados & IA).
+Construindo pontes entre Design de Produto (UX) e Tecnologia (Dados & IA).
 
 Minha carreira começou como Designer Instrucional (DI), onde passei anos entendendo as dores dos usuários e desenhando soluções de aprendizagem (UX/Design). Agora, estou migrando para a área de tecnologia para **construir** essas soluções.
 
